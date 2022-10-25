@@ -8,6 +8,9 @@
 - REACT
 - SOLIDITY
 - HARDHAT
+
+
+Estrutura, Bibliotecas e ferramentas
 ...
 - 📫 Como chegar até mim  fidearte@gmail.com-https://www.linkedin.com/in/fidelina-arteaga/ - https://twitter.com/fidearte
 
