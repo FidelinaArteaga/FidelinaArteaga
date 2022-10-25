@@ -5,12 +5,21 @@
 - HTML
 - CSS
 - JAVASCRIPT
-- REACT
+- NODE
 - SOLIDITY
 - HARDHAT
+- METAMASK
 
 
 Estrutura, Bibliotecas e ferramentas
+- REACT
+- MUI
+- MONGO DB
+- GIT
+- GIT LAB
+- EVM
+- OPENZEPPELIN
+
 
 
 ...
