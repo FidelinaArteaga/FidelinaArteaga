@@ -25,7 +25,8 @@
 
 - SOLIDITY![image](https://user-images.githubusercontent.com/91993006/198748816-ab76acb7-9d01-4782-b9f2-4c770c850310.png)
 
-- HARDHAT
+- HARDHAT![image](https://user-images.githubusercontent.com/91993006/198749067-96f8c609-ddde-4ac4-a8f6-2827e1d1df7b.png)
+
 - METAMASK
 
 
