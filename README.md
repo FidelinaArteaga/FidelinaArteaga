@@ -16,7 +16,8 @@
 
 - CSS![css-3 (1)](https://user-images.githubusercontent.com/91993006/198746470-95a7d02d-af53-41f2-a001-d4e3a1751680.png)
 
-- JAVASCRIPT
+- JAVASCRIPT![js](https://user-images.githubusercontent.com/91993006/198748274-07f23524-db8a-42fc-8e29-787399e2c2b3.png)
+
 - NODE JS
 - ETHEREUM
 - SOLIDITY
