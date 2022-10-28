@@ -4,6 +4,7 @@
 
 ![podium (2)](https://user-images.githubusercontent.com/91993006/198747932-83da5a2a-8ada-4b87-9207-13d933034dd5.png)
 
+![fintech](https://user-images.githubusercontent.com/91993006/198748167-01900e4c-8884-4721-b9a7-41d54c05f731.png)
 ![3d-printer (1)](https://user-images.githubusercontent.com/91993006/198747764-82dad6af-e80f-441d-a41a-7ed435b17f98.png)
 
 
