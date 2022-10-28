@@ -2,7 +2,7 @@
 - 👀 Migrante venezuelano que se reinventou na tecnologia, aos 60 anos eu acredito em mim mesmo e a cada dia sou mais apaixonado pela web 2 e pela web 3.
 - 🌱  Estou aprendendo atualmente WEB 2 y WEB 3, e me atualizando com todas as bibliotecas para desenvolver o Front-End nas aplicações.
 
-![rank](https://user-images.githubusercontent.com/91993006/198746783-f9c721e9-a254-4fcd-a6df-f504afa5181f.png)
+![podium (2)](https://user-images.githubusercontent.com/91993006/198747932-83da5a2a-8ada-4b87-9207-13d933034dd5.png)
 
 ![3d-printer (1)](https://user-images.githubusercontent.com/91993006/198747764-82dad6af-e80f-441d-a41a-7ed435b17f98.png)
 
