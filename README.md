@@ -23,7 +23,8 @@
 
 - ETHEREUM![ethereum (2)](https://user-images.githubusercontent.com/91993006/198748662-24cb28a3-4ee5-4f24-8187-5a5d31a03cfb.png)
 
-- SOLIDITY
+- SOLIDITY![image](https://user-images.githubusercontent.com/91993006/198748816-ab76acb7-9d01-4782-b9f2-4c770c850310.png)
+
 - HARDHAT
 - METAMASK
 
