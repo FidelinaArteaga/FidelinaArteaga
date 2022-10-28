@@ -39,12 +39,20 @@ Estrutura, Bibliotecas e ferramentas
 
 - MONGO DB![image](https://user-images.githubusercontent.com/91993006/198750027-61e6d4e1-e579-4d75-af0f-67be0863a5b9.png)
 
-- GIT
-- GIT LAB
-- EVM
-- OPENZEPPELIN
-- 😎😎😎Estou a estudar a figma
+-
+- EVM![image](https://user-images.githubusercontent.com/91993006/198750431-20aed625-f1be-4ba2-9c5f-4bf0cffb6a02.png)
 
+- OPENZEPPELIN![OZ_logo_color (3)-1](https://user-images.githubusercontent.com/91993006/198750356-f3591782-e700-4094-baa2-b6c79094e646.png)
+- REMIX![image](https://user-images.githubusercontent.com/91993006/198750566-c74e6a53-614e-4dbb-8523-402cc250c4eb.png)
+
+  GIT![github](https://user-images.githubusercontent.com/91993006/198750745-7eb165f1-f8e4-415c-bb64-83df7a6c4ec9.png)
+
+- GIT LAB![merge](https://user-images.githubusercontent.com/91993006/198750892-219bc185-cc0a-4906-9942-8b3cedaa9824.png)
+
+- 😎😎😎Estou a estudar a figma![image](https://user-images.githubusercontent.com/91993006/198750261-fb85b919-64ad-4d4b-929d-e8333d6141f4.png)
+
+
+![hot-line-contact-us-call-center-search-interface](https://user-images.githubusercontent.com/91993006/198750995-61872df8-6431-4e3c-b030-b954a57eda6b.jpg)
 
 
 ...
@@ -54,3 +62,7 @@ Estrutura, Bibliotecas e ferramentas
 FidelinaArteaga/FidelinaArteaga is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+Sou uma profissional que valoriza o trabalho de equipa, desenvolve a sua criatividade para aperfeiçoar o seu trabalho, responsabilidade e formação constante para estar actualizada não é um limite, adoro e gosto de aprender e estudar todos os dias.
+![medium-shot-man-wearing-vr-glasses](https://user-images.githubusercontent.com/91993006/198751406-ed81f2c8-5ef6-43e1-ba26-0bb22f9c26ab.jpg)
+SE ACREDITA EM SI PRÓPRIO, PODE FAZÊ-LO
+Se acredita em si próprio pode fazê-lo, acredito em mim, aos 60 anos de idade, todos os dias sou levado a ser um excelente programador e a ser um exemplo para as novas gerações.
