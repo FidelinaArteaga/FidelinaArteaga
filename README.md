@@ -1,6 +1,12 @@
 - 👋 Hi, I’m @FidelinaArteaga Olá, eu sou Fidelina
 - 👀 Migrante venezuelano que se reinventou na tecnologia, aos 60 anos eu acredito em mim mesmo e a cada dia sou mais apaixonado pela web 2 e pela web 3.
 - 🌱  Estou aprendendo atualmente WEB 2 y WEB 3, e me atualizando com todas as bibliotecas para desenvolver o Front-End nas aplicações.
+
+![rank](https://user-images.githubusercontent.com/91993006/198746783-f9c721e9-a254-4fcd-a6df-f504afa5181f.png)
+
+![web-30 (1)](https://user-images.githubusercontent.com/91993006/198746648-d784f30c-cb00-4134-abe2-3b13f4b982f2.png)
+
+
 - 💞️  Estou procurando colaborar em 
 -  
 - HTML![html (1)](https://user-images.githubusercontent.com/91993006/198746333-e0b83a71-582c-4a2e-82e1-5497faccc996.png)
