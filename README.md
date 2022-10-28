@@ -3,8 +3,8 @@
 - 🌱  Estou aprendendo atualmente WEB 2 y WEB 3, e me atualizando com todas as bibliotecas para desenvolver o Front-End nas aplicações.
 
 ![rank](https://user-images.githubusercontent.com/91993006/198746783-f9c721e9-a254-4fcd-a6df-f504afa5181f.png)
+![3d-printer](https://user-images.githubusercontent.com/91993006/198747683-b1aad226-1b74-4293-b440-c8310e81f55b.png)
 
-![web-30 (1)](https://user-images.githubusercontent.com/91993006/198746648-d784f30c-cb00-4134-abe2-3b13f4b982f2.png)
 
 
 - 💞️  Estou procurando colaborar em 
