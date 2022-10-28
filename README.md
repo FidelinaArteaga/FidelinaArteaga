@@ -65,4 +65,5 @@ You can click the Preview link to take a look at your changes.
 Sou uma profissional que valoriza o trabalho de equipa, desenvolve a sua criatividade para aperfeiçoar o seu trabalho, responsabilidade e formação constante para estar actualizada não é um limite, adoro e gosto de aprender e estudar todos os dias.
 ![medium-shot-man-wearing-vr-glasses](https://user-images.githubusercontent.com/91993006/198751406-ed81f2c8-5ef6-43e1-ba26-0bb22f9c26ab.jpg)
 SE ACREDITA EM SI PRÓPRIO, PODE FAZÊ-LO
+
 Se acredita em si próprio pode fazê-lo, acredito em mim, aos 60 anos de idade, todos os dias sou levado a ser um excelente programador e a ser um exemplo para as novas gerações.
