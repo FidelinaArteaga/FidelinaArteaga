@@ -6,7 +6,8 @@
 - HTML![html (1)](https://user-images.githubusercontent.com/91993006/198746333-e0b83a71-582c-4a2e-82e1-5497faccc996.png)
 
 
-- CSS
+- CSS![css-3 (1)](https://user-images.githubusercontent.com/91993006/198746470-95a7d02d-af53-41f2-a001-d4e3a1751680.png)
+
 - JAVASCRIPT
 - NODE JS
 - ETHEREUM
