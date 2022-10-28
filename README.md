@@ -20,7 +20,7 @@ Estrutura, Bibliotecas e ferramentas
 - GIT LAB
 - EVM
 - OPENZEPPELIN
-- ESTOY ESTUDIANDO FIGMA
+- 😎😎😎Estou a estudar a figma
 
 
 
