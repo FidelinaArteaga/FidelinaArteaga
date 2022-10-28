@@ -21,7 +21,8 @@
 - NODE JS![nodejs](https://user-images.githubusercontent.com/91993006/198748526-5c09abca-057e-4186-ab2e-7a917433b71a.png)
 
 
-- ETHEREUM
+- ETHEREUM![ethereum (2)](https://user-images.githubusercontent.com/91993006/198748662-24cb28a3-4ee5-4f24-8187-5a5d31a03cfb.png)
+
 - SOLIDITY
 - HARDHAT
 - METAMASK
