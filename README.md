@@ -18,7 +18,8 @@
 
 - JAVASCRIPT![js](https://user-images.githubusercontent.com/91993006/198748274-07f23524-db8a-42fc-8e29-787399e2c2b3.png)
 
-- NODE JS![node-js](https://user-images.githubusercontent.com/91993006/198748428-4ff5b6d8-8684-40e8-99d0-283c3cefecaa.png)
+- NODE JS![nodejs](https://user-images.githubusercontent.com/91993006/198748526-5c09abca-057e-4186-ab2e-7a917433b71a.png)
+
 
 - ETHEREUM
 - SOLIDITY
