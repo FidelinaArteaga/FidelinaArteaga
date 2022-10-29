@@ -50,6 +50,8 @@ Estrutura, Bibliotecas e ferramentas
 - GIT LAB![merge](https://user-images.githubusercontent.com/91993006/198750892-219bc185-cc0a-4906-9942-8b3cedaa9824.png)
 
 - 😎😎😎Estou a estudar a figma![image](https://user-images.githubusercontent.com/91993006/198750261-fb85b919-64ad-4d4b-929d-e8333d6141f4.png)
+- 🐢🐢🐢Estou a estudar a Docker![image](https://user-images.githubusercontent.com/91993006/198752252-8f81247b-9b99-4078-97ad-fb6e8a287fc2.png)
+
 
 
 ![hot-line-contact-us-call-center-search-interface](https://user-images.githubusercontent.com/91993006/198750995-61872df8-6431-4e3c-b030-b954a57eda6b.jpg)
@@ -66,4 +68,5 @@ Sou uma profissional que valoriza o trabalho de equipa, desenvolve a sua criativ
 ![medium-shot-man-wearing-vr-glasses](https://user-images.githubusercontent.com/91993006/198751406-ed81f2c8-5ef6-43e1-ba26-0bb22f9c26ab.jpg)
 SE ACREDITA EM SI PRÓPRIO, PODE FAZÊ-LO
 
-Se acredita em si próprio pode fazê-lo, acredito em mim, aos 60 anos de idade, todos os dias sou levado a ser um excelente programador e a ser um exemplo para as novas gerações.
+Se acredita em si próprio pode fazê-lo, acredito em mim, aos 60 anos de idade, todos os dias sou levado a ser um excelente programador e a ser um exemplo para as novas gerações.![woman-staying-with-her-arm-her-sunset-with-copy-space](https://user-images.githubusercontent.com/91993006/198751768-b178d18f-30a5-4958-bec7-4751b5f1e22d.jpg)
+
